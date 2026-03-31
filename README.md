@@ -1,1 +1,22 @@
 # digital-literacy-project
+
+📘 INTRODUCTION(Task 1): For creating this visual slide, I used Canva. It is an easy and user-friendly design tool that provides templates, icons, and color combinations, which helped me design the slide in an attractive way without needing advanced skills. My design shows the concept of Digital Literacy for Students. It explains what digital literacy means and why it is important in today’s world. I have included sections like safe internet practices, email etiquette, and useful digital tools. The aim of my design is to make students understand how to use technology safely, effectively, and responsibly. I also tried to keep the layout visually appealing by using graphics, colors, and simple text so that it is easy to read and understand.
+
+INTRODUCTION ( Task 2):
+
+In my learning journey, I have used platforms like Kaggle, LinkedIn, and GitHub to improve my skills and knowledge. Kaggle helps me practice data analysis and machine learning using real-world datasets. It also allows me to learn new techniques from experts.
+
+LinkedIn is useful for building my professional network 🤝. I can connect with people, share my achievements, and learn about new opportunities. GitHub helps me store my projects 💻, track my progress, and show my work to others. It also improves my coding and collaboration skills.
+
+INTRODUCTION (Task 3): Task3 focuses on understanding the importance of effective digital communication in today’s connected world. It highlights how the way we share information online can impact outcomes in academic and professional settings. Through examples and analysis, this task explores common communication mistakes and their consequences. It also emphasizes the need for clarity, proper platform usage, and responsible behavior while communicating digitally to avoid misunderstandings and ensure better collaboration.
+
+INTRODUCTION (Task 4): Task 4 focuses on exploring the importance of digital platforms and how they can be used for learning, creativity, and professional growth. It highlights different tools and their practical uses in academics and skill development. This task also encourages understanding how to use these platforms effectively to build knowledge, improve productivity, and prepare for future opportunities in a digital world.
+
+LINK FOR GOOGLE FORM:https://docs.google.com/forms/d/e/1FAIpQLScXCtgoHrSN0AyWNA7G7szPWQSxqd8CTKfIKiEoG8afd034tw/viewform?usp=publish-editor
+
+INTRODUCTION (Task 5): Task 5 focuses on understanding cyber safety and ways to protect ourselves from online threats. It highlights common risks such as phishing, fraud, and data theft that users may face while using digital platforms. This task also emphasizes the importance of safe online practices, awareness, and responsible behavior. By learning preventive measures and reporting methods, it aims to help individuals stay secure and confident in the digital environment.
+
+
+Status
+Community
+Do
